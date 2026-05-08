@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Agent676767",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": IsYourKingXD01-E3DK.aternos.me
+    "port": 62505
     "version": "",
     "try-creative": false
   },
@@ -26,7 +26,7 @@
       "enabled": true,
       "sneak": true
     },
-    "chat-messages": {
+    "chat-messages": {:)
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
