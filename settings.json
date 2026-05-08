@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": IsYourKingXD01-E3DK.aternos.me:62505
+    "ip": IsYourKingXD01-E3DK.aternos.me
     "port": 62505
-    "version": "",
+    "version": "1.21.11"
     "try-creative": false
   },
   "position": {
